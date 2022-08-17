@@ -1,0 +1,10 @@
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\bin\Debug\Tic Tac Toe Game V2.exe.config
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\bin\Debug\Tic Tac Toe Game V2.exe
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\bin\Debug\Tic Tac Toe Game V2.pdb
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\obj\Debug\Tic Tac Toe Game V2.csprojAssemblyReference.cache
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\obj\Debug\Tic_Tac_Toe_Game_V2.Form1.resources
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\obj\Debug\Tic_Tac_Toe_Game_V2.Properties.Resources.resources
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\obj\Debug\Tic Tac Toe Game V2.csproj.GenerateResource.cache
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\obj\Debug\Tic Tac Toe Game V2.csproj.CoreCompileInputs.cache
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\obj\Debug\Tic Tac Toe Game V2.exe
+C:\Users\neroc\source\repos\Tic Tac Toe Game V2\Tic Tac Toe Game V2\obj\Debug\Tic Tac Toe Game V2.pdb
